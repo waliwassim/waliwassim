@@ -1,6 +1,6 @@
 # Hi there, I'm Wassim Wali 👋
 
-**Physical AI & Robotics Engineering Student** 🤖 | Looking for a PhD Research Assistantship for Fall 2027 in the US 🇺🇸
+**Physical AI & Robotics Engineering Student** 🤖
 
 I am an engineering student at UPSSITECH (France) specializing in bridging the gap between simulation and real-world robotic deployment. My research interests include 3D Computer Vision, Sim-to-Real, and Autonomous Navigation.
 
@@ -14,4 +14,4 @@ I am an engineering student at UPSSITECH (France) specializing in bridging the g
 *   **Autonomous Mobile Robot:** Real-time sensor fusion (LiDAR, Camera) on Raspberry Pi/Arduino for obstacle avoidance.
 *   **3D Quality Inspection:** Point cloud segmentation and ICP registration pipeline.
 
-📫 **Reach me at:** [Votre Email] | [Lien vers votre LinkedIn]
+📫 **Reach me at:** wassimwali700@gmail.com | www.linkedin.com/in/wassim-wali
